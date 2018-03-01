@@ -40,7 +40,6 @@ a:hover {
 
 div {
   text-decoration: none;
-
 }
 
 @media only screen and (min-width: 38em) {
@@ -48,12 +47,29 @@ div {
   h1 {
     text-align: left;
   }
+
 }
 
 @media only screen and (min-width: 60em) {
 
+  h1 {
+    text-align: left;
+  }
+
+  div {
+    text-align: right;
+  }
+
 }
 
 @media only screen and (min-width: 90em) {
+
+  h1 {
+    text-align: left;
+  }
+
+  div {
+    text-align: right;
+  }
 
 }
